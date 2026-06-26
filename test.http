@@ -1,0 +1,4 @@
+### Backend API Testi
+GET http://127.0.0.1:5005/api/endpoint
+Authorization: Bearer sizin-token-bilginiz
+Content-Type: application/json

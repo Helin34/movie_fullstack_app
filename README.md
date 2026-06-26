@@ -11,7 +11,7 @@ Bu proje, React (Frontend) ve Node.js (Backend) kullanarak geliştirmiş olduğu
 
 ## 🎥 Proje Önizlemesi
 
-![Demo](./public/demo.gif)
+![Demo](./frontend/public/demo.gif)
 
 ## 🛠️ Kullanılan Teknolojiler
 
